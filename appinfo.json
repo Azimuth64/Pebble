@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jayce.meade@outlook.com",
+    "longName": "Experiment",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_EXAMPLE_42",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Experiment",
+    "uuid": "60e79aa1-ce1d-4b4e-8c5a-c3cbe63f8d35",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
